@@ -6,6 +6,12 @@
       "expiryDate": "2025-11-01",
       "creationDate": "2025-06-07 21:42:37",
       "loginMessage": "hlo brooooooooo"
+    },
+    "tester1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-08 08:24:46"
     }
   },
   "INSANE": {
