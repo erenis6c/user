@@ -46,5 +46,12 @@
       "loginMessage": "hlo insane user"
     }
   },
-  "BYPASS": {}
+  "BYPASS": {
+    "retrooooooooooo": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-08 08:55:29"
+    }
+  }
 }
